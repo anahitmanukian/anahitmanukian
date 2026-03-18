@@ -1,66 +1,107 @@
-# Hi, I'm Anahit 
+# 👋 Hi, I'm Anahit Manukian
 
- AI & Data Science Student 
- Yerevan, Armenia
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql)
-
-I'm an ML and Data Science student passionate about turning raw data into meaningful insights — from football analytics and property markets to AI-powered systems.
-
-💡 **Interests:** Machine Learning, Recommender Systems, NLP, Data Analytics
+🎓 AI & Data Science Student based in Yerevan  
+🧠 Interested in **AI systems, applied machine learning, and real-world data problems**
 
 ---
 
-## 🔭 Projects
+## 🚀 What I Do
 
-| Project            | Description                                  | Stack            |
-| ------------------ | -------------------------------------------- | ---------------- |
-| epl-rag-system     | RAG pipeline for EPL football data           | Python           |
-| football-ai-system | AI system for football analytics             | Jupyter Notebook |
-| nyc-property-sales | Exploratory analysis of NYC real estate data | Jupyter Notebook |
-| recipe_recommender | Recipe recommendation system                 | Python           |
+I build **end-to-end machine learning systems** — from raw data to working pipelines — with a focus on:
 
----
-
-## 🛠️ Technical Skills
-
-### Programming & Data
-
-* Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
-* SQL (joins, aggregations, relational modeling)
-* Data cleaning & preprocessing
-* Exploratory Data Analysis (EDA)
-* Data visualization
-
-### Machine Learning
-
-* Classification & regression models
-* Random Forest, XGBoost, Logistic Regression
-* Feature engineering & model evaluation
-* TF-IDF & cosine similarity
-* Semantic search (FAISS, Sentence Transformers)
-
-### Tools & Development
-
-* Git & GitHub
-* Docker (basic containerization)
-* Jupyter Notebook
-* Streamlit web applications
-* Modular ML project architecture
+- 📊 Data processing & feature engineering  
+- 🤖 Machine learning & evaluation  
+- 🧩 System design & modular pipelines  
+- ⚡ Practical AI applications (RAG, recommenders, forecasting)
 
 ---
 
-## GitHub Stats
+## 🔥 Featured Projects
 
-![Anahit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anahitmanukian\&show_icons=true\&theme=dark)
+### 📈 S&P 500 Volatility Forecasting
+**Time series forecasting under regime shift**
+
+- Built ML + statistical models (Random Forest, XGBoost, ARIMA)
+- Identified failure of static ML models under distribution shift
+- Demonstrated effectiveness of rolling-window modeling
+- Modular pipeline for feature engineering & evaluation  
+
+👉 https://github.com/anahitmanukian/s-p500-volatility-forecast
 
 ---
 
-## 📫 Get in Touch
+### ⚽ Football AI System
+**End-to-end ML pipeline for prediction & forecasting**
 
-LinkedIn: https://www.linkedin.com/in/anahit-manukyan-5a2102327/
-Email: [anahitmanukian29@gmail.com](mailto:anahitmanukian29@gmail.com)
+- Match outcome classification (Accuracy: ~84%, F1 ≈ 0.80)  
+- League performance regression (R² ≈ 0.83)  
+- Config-driven pipeline with logging and modular structure  
+
+👉 https://github.com/anahitmanukian/football-ai-system
+
+---
+
+### 🔍 EPL RAG System
+**Semantic search over football match data**
+
+- FAISS + Sentence Transformers for vector search  
+- Natural language queries across multiple seasons  
+- Fast retrieval (<100ms)  
+
+👉 https://github.com/anahitmanukian/epl-rag-system
+
+---
+
+### 👨‍🍳 Recipe Recommender
+**Content-based recommendation system**
+
+- TF-IDF + cosine similarity  
+- Streamlit app + Dockerized deployment  
+- Optimized for memory efficiency  
+
+👉 https://github.com/anahitmanukian/recipe_recommender
+
+---
+
+### 🏙 NYC Property Sales Analysis
+**Data cleaning & exploratory analysis**
+
+- Cleaned and transformed messy real-world dataset  
+- Feature engineering for pricing insights  
+- EDA on borough and property trends  
+
+👉 https://github.com/anahitmanukian/nyc-property-sales
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Data**
+- Python (pandas, numpy, scikit-learn)
+- SQL (joins, aggregations, relational modeling)
+
+**Machine Learning**
+- Classification & regression models  
+- Random Forest, XGBoost, Logistic Regression  
+- Feature engineering & evaluation  
+- NLP: TF-IDF, embeddings, semantic search  
+
+**Tools**
+- Git & GitHub  
+- Docker  
+- Streamlit  
+- Jupyter Notebook  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anahitmanukian&show_icons=true)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/anahit-manukyan-5a2102327/  
+- Email: anahitmanukian29@gmail.com  
 
