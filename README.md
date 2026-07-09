@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anahit Manukian
+# 👋 Hi, I'm Anahit Manukyan
 
 🎓 AI & Data Science Student based in Yerevan  
 🧠 Interested in **AI systems, applied machine learning, and real-world data problems**
