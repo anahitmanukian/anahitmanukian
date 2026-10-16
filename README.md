@@ -46,7 +46,7 @@ AI/ML Engineer with hands-on experience developing Retrieval-Augmented Generatio
 
 #### 🤖 AI & LLM Systems
 
-* **[Music Recommendation RAG Pipeline](https://github.com/anahitmanukian/album-review-rag)**  
+* **[Music Recommendation RAG Pipeline](github.com/anahitmanukian/music_recommendation_rag_pipline)**  
   *Contextual music recommendation system built over qualitative album reviews and style documentation.*  
   * **Tech Stack:** LangChain LCEL, FAISS, HuggingFace Embeddings, Groq API, Streamlit.  
   * **Key Architecture:** Automated multi-format ingestion (.txt, .pdf), semantic chunking, persisted vector similarity search, and interactive streaming UI.
