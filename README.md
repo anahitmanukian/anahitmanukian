@@ -1,6 +1,6 @@
 # Anahit Manukyan
 
-**AI/ML Engineer & Data Analyst**  
+**Junior AI/ML Engineer & Data Analyst**  
 Yerevan, Armenia
 
 AI/ML Engineer with hands-on experience developing Retrieval-Augmented Generation (RAG) architectures, speech-to-text processing pipelines, and applied machine learning models. Experienced in building modular pipelines, fine-tuning LLMs, vector search indexing, and cloud-native workflows (AWS Lambda/S3).
