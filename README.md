@@ -10,7 +10,7 @@ AI/ML Engineer with hands-on experience developing Retrieval-Augmented Generatio
 ### ⚡ Primary Tech Stack Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahitmanukian&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,jupyter%20notebook" width="50%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahitmanukian&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html" width="50%" alt="Top Languages" />
 </p>
 
 ---
