@@ -10,8 +10,8 @@ AI/ML Engineer with hands-on experience developing Retrieval-Augmented Generatio
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anahitmanukian&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Anahit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahitmanukian&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anahitmanukian&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" width="48%" alt="Anahit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahitmanukian&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=jupyter%20notebook" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
