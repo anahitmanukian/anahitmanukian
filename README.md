@@ -86,3 +86,10 @@ AI/ML Engineer with hands-on experience developing Retrieval-Augmented Generatio
 
 * **LinkedIn:** [linkedin.com/in/anahit-manukyan-5a2102327](https://www.linkedin.com/in/anahit-manukyan-5a2102327/)
 * **Email:** anahitmanukian29@gmail.com
+
+---
+
+### 📊 My GitHub Stats
+
+![anahitmanukian](https://vercel.app)
+![Top Langs](https://vercel.app)
